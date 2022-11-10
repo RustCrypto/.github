@@ -7,7 +7,7 @@ Cryptographic algorithms written in pure Rust.
 We maintain hundreds of crates which provide pure Rust implementations of cryptographic algorithms,
 including the following:
 
-- **Asymmetric encryption**: [`rsa`](https://github.com/RustCrypto/RSA),
+- **Asymmetric encryption**: [`rsa`](https://github.com/RustCrypto/RSA)
 - **Cryptographic encoding formats**: [`const-oid`](https://github.com/RustCrypto/formats/tree/master/const-oid), [`der`](https://github.com/RustCrypto/formats/tree/master/der), [`pem-rfc7468`](https://github.com/RustCrypto/formats/tree/master/pem-rfc7468), [`pkcs8`](https://github.com/RustCrypto/formats/tree/master/pkcs8)
 - **Digital signatures**:, [`ecdsa`](https://github.com/RustCrypto/signatures/tree/master/ecdsa), [`ed25519`](https://github.com/RustCrypto/signatures/tree/master/ecdsa)
 - **Hash functions**: [`blake2`](https://github.com/RustCrypto/hashes/tree/master/blake2), [`sha2`](https://github.com/RustCrypto/hashes/tree/master/sha2), [`sha3`](https://github.com/RustCrypto/hashes/tree/master/sha3)
