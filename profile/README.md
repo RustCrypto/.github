@@ -1,4 +1,4 @@
-### About Us [![zulip chat](https://img.shields.io/badge/zulip-join_chat-blue.svg)](https://rustcrypto.zulipchat.com/)
+### About [![zulip chat](https://img.shields.io/badge/zulip-join_chat-blue.svg)](https://rustcrypto.zulipchat.com/)
 
 We maintain hundreds of crates which provide pure Rust implementations of cryptographic algorithms,
 including the following:
@@ -13,7 +13,7 @@ including the following:
 - **Symmetric encryption**: [`aes-gcm`](https://github.com/RustCrypto/AEADs/tree/master/aes-gcm), [`chacha20poly1305`](https://github.com/RustCrypto/AEADs/tree/master/chacha20poly1305)
 - **Traits**: [`aead`](https://github.com/RustCrypto/traits/tree/master/aead), [`cipher`](https://github.com/RustCrypto/traits/tree/master/cipher),[`digest`](https://github.com/RustCrypto/traits/tree/master/digest), [`signature`](https://github.com/RustCrypto/traits/tree/master/signature)
 
-### Who are we?
+### Project leads
 
 - Artyom Pavlov ([@newpavlov](https://github.com/newpavlov))
 - Tony Arcieri ([@tarcieri](https://github.com/tarcieri))
