@@ -1,8 +1,4 @@
-## Rust Crypto
-
-Cryptographic algorithms written in pure Rust.
-
-### About
+### About Us
 
 We maintain hundreds of crates which provide pure Rust implementations of cryptographic algorithms,
 including the following:
