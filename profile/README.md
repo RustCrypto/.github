@@ -1,6 +1,6 @@
 ### About [![zulip chat](https://img.shields.io/badge/zulip-join_chat-blue.svg)](https://rustcrypto.zulipchat.com/)
 
-We maintain hundreds of crates which provide pure Rust implementations of cryptographic algorithms,
+We maintain dozens of popular crates which provide pure Rust implementations of cryptographic algorithms,
 including the following:
 
 - **Asymmetric encryption**: [`rsa`](https://github.com/RustCrypto/RSA)
