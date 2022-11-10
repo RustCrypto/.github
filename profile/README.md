@@ -1,6 +1,4 @@
-### About Us
-
-[![zulip chat](https://img.shields.io/badge/zulip-join_chat-blue.svg)](https://rustcrypto.zulipchat.com/)
+### About Us [![zulip chat](https://img.shields.io/badge/zulip-join_chat-blue.svg)](https://rustcrypto.zulipchat.com/)
 
 We maintain hundreds of crates which provide pure Rust implementations of cryptographic algorithms,
 including the following:
