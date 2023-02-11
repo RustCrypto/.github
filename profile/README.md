@@ -5,7 +5,7 @@ including the following:
 
 - **Asymmetric encryption**: [`elliptic-curves`](https://github.com/RustCrypto/elliptic-curves), [`rsa`](https://github.com/RustCrypto/RSA)
 - **Cryptographic encoding formats**: [`const-oid`](https://github.com/RustCrypto/formats/tree/master/const-oid), [`der`](https://github.com/RustCrypto/formats/tree/master/der), [`pem-rfc7468`](https://github.com/RustCrypto/formats/tree/master/pem-rfc7468), [`pkcs8`](https://github.com/RustCrypto/formats/tree/master/pkcs8)
-- **Digital signatures**:, [`ecdsa`](https://github.com/RustCrypto/signatures/tree/master/ecdsa), [`ed25519`](https://github.com/RustCrypto/signatures/tree/master/ecdsa)
+- **Digital signatures**:, [`ecdsa`](https://github.com/RustCrypto/signatures/tree/master/ecdsa), [`ed25519`](https://github.com/RustCrypto/signatures/tree/master/ecdsa), [`rsa`](https://github.com/RustCrypto/RSA)
 - **Elliptic curves**: [`k256`](https://github.com/RustCrypto/elliptic-curves/tree/master/k256), [`p256`](https://github.com/RustCrypto/elliptic-curves/tree/master/p256), [`p384`](https://github.com/RustCrypto/elliptic-curves/tree/master/p384) 
 - **Hash functions**: [`blake2`](https://github.com/RustCrypto/hashes/tree/master/blake2), [`sha2`](https://github.com/RustCrypto/hashes/tree/master/sha2), [`sha3`](https://github.com/RustCrypto/hashes/tree/master/sha3)
 - **Key derivation functions**: [`hkdf`](https://github.com/RustCrypto/KDFs/tree/master/hkdf), [`pbkdf2`](https://github.com/RustCrypto/password-hashes/tree/master/pbkdf2)
