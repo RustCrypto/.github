@@ -10,7 +10,7 @@ including the following:
 - **Hash functions**: [`blake2`](https://github.com/RustCrypto/hashes/tree/master/blake2), [`sha2`](https://github.com/RustCrypto/hashes/tree/master/sha2), [`sha3`](https://github.com/RustCrypto/hashes/tree/master/sha3)
 - **Key derivation functions**: [`hkdf`](https://github.com/RustCrypto/KDFs/tree/master/hkdf), [`pbkdf2`](https://github.com/RustCrypto/password-hashes/tree/master/pbkdf2)
 - **Message authentication codes**: [`hmac`](https://github.com/RustCrypto/MACs/tree/master/hmac)
-- **Sponge functions**: [`keccak`](https://github.com/RustCrypto/sponges/tree/master/keccak)
+- **Sponge functions**: [`ascon`](https://github.com/RustCrypto/sponges/tree/master/ascon), [`keccak`](https://github.com/RustCrypto/sponges/tree/master/keccak)
 - **Symmetric encryption**: [`aes-gcm`](https://github.com/RustCrypto/AEADs/tree/master/aes-gcm), [`aes-gcm-siv`](https://github.com/RustCrypto/AEADs/tree/master/aes-gcm-siv), [`chacha20poly1305`](https://github.com/RustCrypto/AEADs/tree/master/chacha20poly1305)
 - **Traits**: [`aead`](https://github.com/RustCrypto/traits/tree/master/aead), [`cipher`](https://github.com/RustCrypto/traits/tree/master/cipher),[`digest`](https://github.com/RustCrypto/traits/tree/master/digest), [`signature`](https://github.com/RustCrypto/traits/tree/master/signature)
 
